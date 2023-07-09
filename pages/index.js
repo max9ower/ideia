@@ -1,5 +1,12 @@
 function Home() {
-    return <div>Home</div>
+    return <div>
+        BEM-VINDO os REGISTRO DE PLANO DE NAVEGAÇÃO
+            <div>
+                Desenvolvido por:
+                Maria e Éderson.
+                julho de 2023
+            </div>
+        </div>
 }
 
 export default Home
